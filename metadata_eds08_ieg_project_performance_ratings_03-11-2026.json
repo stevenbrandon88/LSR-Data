@@ -1,0 +1,67 @@
+{
+    "id": "DS01695",
+    "object_type": "VISUALIZATION",
+    "title": "EDS08 IEG Project Performance Ratings",
+    "description": "<p>EDS refer to \"Executive Directors\". The World Bank Group Executive Directors’ offices may represent single or multiple constituencies.</p><p><br></p><p>This dataset contains all independent assessments and validations of World Bank projects carried out by the Independent Evaluation Group (IEG) in the last 20 years. This data is updated quarterly in addition to the annual update for IEG's Results and Performance of the World Bank Group (RAP).Learn more at&nbsp;http://ieg.worldbankgroup.org/ratings.Note: The data shows the latest evaluation i.e. if a project had multiple evaluations such as a Project Performance Assessment Report (PPAR), only the latest rating is included in the dataset.</p>",
+    "category": "Other",
+    "provenance": "official",
+    "data_as_of": "2026-03-08",
+    "view_count": 420,
+    "download_count": 0,
+    "data_provided_by": null,
+    "owner": "Finances One",
+    "date_created": "2024-08-26T09:15:21Z",
+    "last_updated": "2026-03-10T05:46:27.283Z",
+    "license": "Creative Commons Attribution 4.0 International",
+    "type": "",
+    "row_label": null,
+    "source": null,
+    "periodicity": "",
+    "granularity": "Project",
+    "update_frequency": "",
+    "economic_coverage": "World",
+    "range_column": "",
+    "general_access_option": "",
+    "language": "English",
+    "update_schedule": "",
+    "data_last_updated": "2026-03-10T05:46:27.283Z",
+    "metadata_last_updated": "8/6/2024 5:02:32 PM",
+    "countries": [],
+    "tags": [
+        {
+            "id": null,
+            "name": "region level"
+        },
+        {
+            "id": null,
+            "name": "sector"
+        },
+        {
+            "id": null,
+            "name": "project level"
+        },
+        {
+            "id": null,
+            "name": "country level"
+        },
+        {
+            "id": null,
+            "name": "EDS"
+        },
+        {
+            "id": null,
+            "name": "Executive directors"
+        }
+    ],
+    "row_count": 30206,
+    "column_count": 21,
+    "first_release_date": "8/26/2024 9:15:21 AM",
+    "parent_id": "DS00053",
+    "data_classification_name": "Public",
+    "point_of_contact": "Finances One",
+    "institutions": [
+        "IBRD",
+        "IDA"
+    ],
+    "column_details": []
+}
